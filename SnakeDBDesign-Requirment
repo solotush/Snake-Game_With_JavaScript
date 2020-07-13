@@ -1,0 +1,18 @@
+Snake DB Design 
+	- Requirment 
+		- Enter name before starting a game 
+			DB Table 
+				- Player ID 
+				- Name
+				- Play time 
+				- Final Score
+
+		- Insert Name and score when loosing game 
+
+		- Display the score on screen before adding it to the DB 
+
+		- Display the top score chart on the left 
+
+		- Redesign the look of the game 
+
+		 
